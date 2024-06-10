@@ -1,6 +1,8 @@
-# InnovateATL Hackathon
+# InnovateATL Hackathon + Observability Workshops
 
-Welcome to the InnovateATL Hackathon! This event aims to bring together talented engineers, public sector experts, and the local tech community to develop innovative solutions for Atlanta's most pressing public sector challenges.
+Welcome to the InnovateATL Hackathon! This event aims to bring together talented engineers, public sector experts, and the local tech community to develop innovative solutions for Atlanta's most pressing public sector challenges. 
+
+We are also hosting a few observability workshops to supplement your projects -- check them out below!  
 
 ## Objectives
 
@@ -70,3 +72,17 @@ Users can take a photo of a car break-in incident, and the tool automatically in
 
 For official rules click [here](rules.pdf).
 We are excited to see your innovative solutions and how they can help transform Atlanta's public sector! Happy hacking!
+
+## Observability Workshops
+
+### **Exploring Observability and Software Debugging, with Rita Hill**: June 13, 1:15-3:15PM
+In this beginner level workshop, participants will gain an understanding of how observability helps software engineering teams to understand the health and performance of their systems—and see beyond not just what errors occur, but to know when and why. Through interactive discussions and hands-on exercises, participants will explore the core pillars of observability and will learn how these practices enable engineers to gain insights into the inner workings of their applications, diagnose issues effectively, and make informed decisions to enhance performance and reliability. By the end of the workshop, participants will walk away with a foundation in observability principles and practical techniques to apply within their own projects.
+
+### **Spill the Tea on Frontend Errors with Session Replay, with Spence Taylor**: June 13, 4:00-6:00PM
+Have you ever had an error you couldn't easily diagnose? Maybe you struggled to understand the cause of an uncaught exception? Maybe a customer filed a ticket and you couldn't reproduce the set of user actions that lead to their issue. In this session, you will learn how to use monitoring and observability tools to easily identify and diagnose errors, and get visibility into user actions that lead to an error or crash.
+
+### What's Wrong with my App?: Using OpenTelemetry to Observe Your Code, with Reese Lee: June 14, 10:00AM-12:00PM
+Having observability into your applications and infrastructure empowers you with multiple benefits, including being able to pinpoint issues in your code down to the line, minimize application downtime, and ensure your system is running smoothly. Being able to pinpoint issues in your code down to the line, minimize application downtime, and ensure your system is running smoothly – these, and many more benefits, are only possible when you have observability into your applications and infrastructure.
+
+OpenTelemetry is both a framework and a tool for implementing observability, and New Relic is a data visualization and storage platform – by leveraging both, you can achieve observability. In this beginner-level workshop, you’ll use a multi-language demo application to learn about OpenTelemetry instrumentation, basic Collector architecture, and how to debug common issues, such as missing data, as well as how to navigate your traces, metrics, and logs in New Relic.
+
